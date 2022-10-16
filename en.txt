@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=NAME_FONT');
+.odometer-inside{
+color: COLOR_TEXT;
+font-family:'NAME_FONT';
+}
+div.realtime-container-side-1{
+background-color:COLOR_FOR_CHROMAR_KEY;
+}
